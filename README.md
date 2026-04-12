@@ -5,7 +5,10 @@
 > *「选择比努力更重要，但'有得选'的前提是你足够努力。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-2.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/version-v2.0.0-blue.svg)](CHANGELOG.md)
+[![Skill](https://img.shields.io/badge/type-practical%20skill-0a7ea4.svg)](SKILL.md)
+[![Focus](https://img.shields.io/badge/focus-gaokao%20%26%20major%20selection-2f855a.svg)](README.md)
+[![Status](https://img.shields.io/badge/status-ready%20to%20use-success.svg)](RELEASE.md)
 
 <br>
 
@@ -254,6 +257,37 @@ zhangxuefeng-skill/
 - 专业或城市偏好
 
 这样这个 skill 才能真正走到“先分析，再给方案”的完整流程。
+
+---
+
+## 项目路线图 / Roadmap
+
+### v2.1
+- 补齐更多高频咨询场景示例
+- 统一 `references/research` 的结构和写法
+- 增加更多省份/新高考模式的边界案例
+- 优化志愿填报场景下的冲/稳/保输出模板
+- 增加对复读、提前批、公费师范、军校、中外合作办学等专题的标准回答骨架
+
+### v2.2
+- 增加“信息收集表”机制
+- 在多轮对话中更稳定地记住省份、分数、科类、位次、家庭条件、城市偏好
+- 增加更细的风险提示模板
+- 细化“数据不足时如何回答”的降级策略
+- 补充更多情绪危机场景 SOP
+
+### v2.3
+- 增加不同表达档位的切换能力
+- 区分“全力输出 / 务实温和 / 共情优先”三种稳定模式
+- 优化亲子冲突、专业分歧、考砸后复读犹豫等复杂场景
+- 进一步降低 AI 报告腔，提高真实直播感
+
+### v3.0
+- 形成完整的高考与专业选择决策系统
+- 从“像张雪峰回答”升级为“张雪峰风格的完整咨询工作流”
+- 支持从摸底、定向、推荐到复核的全链路输出
+- 支持更稳定的结构化方案生成
+- 让 skill 在真实志愿咨询场景中更接近可直接使用的工作台
 
 ---
 
